@@ -1,0 +1,7 @@
+below is code to convert to py format
+
+jupyter nbconvert --to script GBM_Simulation.ipynb
+jupyter nbconvert --to script Binomial_Tree_Pricing.ipynb
+jupyter nbconvert --to script Black_Scholes_Pricing.ipynb
+jupyter nbconvert --to script Moving_Average_Crossover.ipynb
+jupyter nbconvert --to script VaR_Calculation.ipynb
